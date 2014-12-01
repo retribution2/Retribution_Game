@@ -1,5 +1,6 @@
 # retribution
 #print "Congratulation,you are on probation period, now until you have done gotten the item, you will be a free man. task you have completed this task. You can be free whenever you have completed this task"
+
 #print "ok sir!"
 
 
@@ -20,3 +21,5 @@ print " which prison do you come from? "
 print " regolith prison "
 print " fine, you have 1 chance. we have our eyes on you" + name
 print " you open the huge door and walk thorugh the huge door"                                      
+
+
