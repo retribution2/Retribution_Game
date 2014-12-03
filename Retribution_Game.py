@@ -8,7 +8,7 @@
 #myfile=pickAFile("\Users\Public\Pictures\Sample Pictures\Ff14-class-archer.jpg")
 #pict=makePicture("\Users\Public\Pictures\Sample Pictures\Ff14-class-archer.jpg")
 #show(pict)
-            
+#undead ward so dont get infected         
 #print "you open up the cell doors and walk out.. thinking about what you have just been told"
 name = str(raw_input())
 print "So your name is " + name + "?"
@@ -52,10 +52,21 @@ if userInput == "":
 if userInput == "":
     print ""
 print "it's already bleeding out on the floor from the previos person.. and you just step on it to finish it off."
-print ""
-print ""
-print ""
-print ""
+print "you continute walking.. and you see a bloody sign saying chamber of the Phantom Revenant."
+print "You don't think anything of it. And you continue watching it"
+print "
+print "You feel it getting a LOT hotter... and also getting gnawed on by a bunch of little creatures.. oh wait those are the grunts.."
+print "you beat the little grunts off of you as fast as you are able to, in disbelief aswell."
 userInput = raw_input()
 if userInput == "":
     print ""
+print "You keep walking and you spot the phantom.. phantom revenant."
+print "you... you are the one who has the items i need... you aren't leaving her alive.."
+print "
+print "
+print "
+print "
+print "
+print "
+print "
+print "
